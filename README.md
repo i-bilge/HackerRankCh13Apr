@@ -1,2 +1,2 @@
-# if-else-case1
-is n (in conditions)odd or even?
+# HackerRankCh13Apr
+if-else-case1 & for-loop-case1
